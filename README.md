@@ -1,6 +1,6 @@
 # Island. Make a separate space for apps you don't trust enough!
 
-> یادداشت: نسخه فارسی این مقاله در [اینجا](https://github.com/AliAlmasi/separate-island) قابل مشاهده است.
+> یادداشت: نسخه فارسی این مقاله در [اینجا](https://github.com/AliAlmasi/separate-island/blob/main/README.fa.md) قابل مشاهده است.
 
 ## What's "Island"?
 As many of us probably know, the trust in domestic (Islamic Republic) applications is decreasing day by day, and perhaps many of us - as far as we could - removed Iranian apps from our phones.
