@@ -5,7 +5,7 @@
 ## What's "Island"?
 As many of us probably know, the trust in domestic (Islamic Republic) applications is decreasing day by day, and perhaps many of us - as far as we could - removed Iranian apps from our phones.
 
-In this article, I want to introduce the [Island](https://github.com/oasisfeng/island) program. Using the [Work-Mode](https://support.google.com/work/android/answer/6191949?hl=en) feature built into Android 5.0 and above, this program allows us to have two separate spaces in our phone.
+In this article, I want to introduce the [Island](https://github.com/oasisfeng/island) program. Using the [Work Mode](https://support.google.com/work/android/answer/6191949?hl=en) feature built into Android 5.0 and above, this program allows us to have two separate spaces in our phone.
 
 ---
 
@@ -17,7 +17,7 @@ It is even possible to install an application in both spaces so that, for exampl
 ---
 
 ## How to install this?
-First of all, we need to download the program. If you can access the Play Store inside Iran, that's even better! [Install from there](https://play.google.com/store/apps/details?id=com.oasisfeng.island). If not, you can download and install the latest release of the program from other markets or the main [Github repository](https://github.com/oasisfeng/island/releases/latest) without the need for VPN in Iran.
+First of all, we need to download the program. If you can access the Play Store inside Iran, that's even better! [Install from there](https://play.google.com/store/apps/details?id=com.oasisfeng.island). If not, you can download and install the latest release of the program from other markets or the main [GitHub repository](https://github.com/oasisfeng/island/releases/latest) without the need for VPN in Iran.
 
 After the installation is finished, enter the program, press the button shown in the picture until it becomes "Accept", then press "Accept" again.
 ![Island installation image #1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8sh7axzrt471krr1ccky.jpg)
@@ -92,7 +92,7 @@ In addition, it is not possible to access these items that are in the main space
 - List of applications installed on the device
 
 ### Is this program reliable? Is this program safe?
-The Island program is one of the open source programs and its codes are available for everyone to access. Also, in the reviews, this program did not contain malware or viruses.
+The Island program is one of the open-source programs and [its codes are available for everyone to access](https://github.com/oasisfeng/island). Also, in the reviews, this program did not contain malware or viruses.
 ### Where is the Work Mode feature in my Android? Why can't I find it?
 This feature is present in all versions of Android 5.0 and above, but some brands - who customize Android - such as Samsung, LG, Xiaomi, and other brands, remove this feature from the Android settings. But this feature is still accessible using the Island app.
 
@@ -125,9 +125,8 @@ Click on the last option which is Destroy Permanently and then click the Destroy
 
 ![Island installation image #12](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epuhma2io18b171klv7y.png)
 
-![Island installation image #13](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/trcylqecl3.png)
+![Island installation image #13](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/11tcbc3na5aw2myvpcjd.png)
 
 In this way, Island space is completely removed. Now we can also uninstall the Island app.
 
-
-
+> You can still ask questions in the Issues section of this repo (or the [Island's GitHub repo](https://github.com/oasisfeng/island) and they'll be answered.
