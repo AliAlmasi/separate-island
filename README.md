@@ -20,6 +20,7 @@ It is even possible to install an application in both spaces so that, for exampl
 First of all, we need to download the program. If you can access the Play Store inside Iran, that's even better! [Install from there](https://play.google.com/store/apps/details?id=com.oasisfeng.island). If not, you can download and install the latest release of the program from other markets or the main [GitHub repository](https://github.com/oasisfeng/island/releases/latest) without the need for VPN in Iran.
 
 After the installation is finished, enter the program, press the button shown in the picture until it becomes "Accept", then press "Accept" again.
+
 ![Island installation image #1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8sh7axzrt471krr1ccky.jpg)
 
 > Note: This step may look different on different devices.
@@ -129,4 +130,4 @@ Click on the last option which is Destroy Permanently and then click the Destroy
 
 In this way, Island space is completely removed. Now we can also uninstall the Island app.
 
-> You can still ask questions in the Issues section of this repo (or the [Island's GitHub repo](https://github.com/oasisfeng/island) and they'll be answered.
+> You can still ask questions in the Issues section of this repo (or the [Island's GitHub repo](https://github.com/oasisfeng/island)) and they'll be answered.
